@@ -9,6 +9,7 @@
 | [0485-max-consecutive-ones](https://github.com/AarthyV04/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/AarthyV04/Leetcode/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/AarthyV04/Leetcode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/AarthyV04/Leetcode/tree/master/0506-relative-ranks) |
 | [1319-unique-number-of-occurrences](https://github.com/AarthyV04/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AarthyV04/Leetcode/tree/master/0049-group-anagrams) |
+| [0506-relative-ranks](https://github.com/AarthyV04/Leetcode/tree/master/0506-relative-ranks) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/AarthyV04/Leetcode/tree/master/0495-teemo-attacking) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/AarthyV04/Leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
