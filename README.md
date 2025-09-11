@@ -7,6 +7,7 @@
 | [0049-group-anagrams](https://github.com/AarthyV04/Leetcode/tree/master/0049-group-anagrams) |
 | [0463-island-perimeter](https://github.com/AarthyV04/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/AarthyV04/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/AarthyV04/Leetcode/tree/master/0495-teemo-attacking) |
 | [1319-unique-number-of-occurrences](https://github.com/AarthyV04/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/AarthyV04/Leetcode/tree/master/0463-island-perimeter) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/AarthyV04/Leetcode/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
