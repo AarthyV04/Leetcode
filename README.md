@@ -4,10 +4,12 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AarthyV04/Leetcode/tree/master/0049-group-anagrams) |
 | [1319-unique-number-of-occurrences](https://github.com/AarthyV04/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AarthyV04/Leetcode/tree/master/0049-group-anagrams) |
 | [1319-unique-number-of-occurrences](https://github.com/AarthyV04/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Dynamic Programming
 |  |
@@ -24,9 +26,14 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AarthyV04/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/AarthyV04/Leetcode/tree/master/0071-simplify-path) |
 ## Stack
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/AarthyV04/Leetcode/tree/master/0071-simplify-path) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/AarthyV04/Leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
