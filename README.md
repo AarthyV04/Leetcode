@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AarthyV04/Leetcode/tree/master/0049-group-anagrams) |
+| [0463-island-perimeter](https://github.com/AarthyV04/Leetcode/tree/master/0463-island-perimeter) |
 | [1319-unique-number-of-occurrences](https://github.com/AarthyV04/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
@@ -36,4 +37,16 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AarthyV04/Leetcode/tree/master/0049-group-anagrams) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/AarthyV04/Leetcode/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/AarthyV04/Leetcode/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/AarthyV04/Leetcode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
