@@ -37,6 +37,7 @@
 | [0071-simplify-path](https://github.com/AarthyV04/Leetcode/tree/master/0071-simplify-path) |
 | [0434-number-of-segments-in-a-string](https://github.com/AarthyV04/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/AarthyV04/Leetcode/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/AarthyV04/Leetcode/tree/master/0520-detect-capital) |
 ## Stack
 |  |
 | ------- |
