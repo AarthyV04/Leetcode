@@ -65,4 +65,8 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/AarthyV04/Leetcode/tree/master/0506-relative-ranks) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/AarthyV04/Leetcode/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
