@@ -20,6 +20,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/AarthyV04/Leetcode/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AarthyV04/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Graph
 |  |
@@ -69,4 +70,13 @@
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/AarthyV04/Leetcode/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/AarthyV04/Leetcode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AarthyV04/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AarthyV04/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
