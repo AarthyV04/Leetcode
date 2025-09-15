@@ -12,12 +12,14 @@
 | [0506-relative-ranks](https://github.com/AarthyV04/Leetcode/tree/master/0506-relative-ranks) |
 | [1319-unique-number-of-occurrences](https://github.com/AarthyV04/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/AarthyV04/Leetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/AarthyV04/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AarthyV04/Leetcode/tree/master/0049-group-anagrams) |
 | [0500-keyboard-row](https://github.com/AarthyV04/Leetcode/tree/master/0500-keyboard-row) |
 | [1319-unique-number-of-occurrences](https://github.com/AarthyV04/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/AarthyV04/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/AarthyV04/Leetcode/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3044-minimum-operations-to-collect-elements](https://github.com/AarthyV04/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 <!---LeetCode Topics End-->
