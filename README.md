@@ -11,6 +11,7 @@
 | [0500-keyboard-row](https://github.com/AarthyV04/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/AarthyV04/Leetcode/tree/master/0506-relative-ranks) |
 | [1319-unique-number-of-occurrences](https://github.com/AarthyV04/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [2518-the-employee-that-worked-on-the-longest-task](https://github.com/AarthyV04/Leetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 ## Hash Table
 |  |
 | ------- |
