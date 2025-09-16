@@ -6,6 +6,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/AarthyV04/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AarthyV04/Leetcode/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/AarthyV04/Leetcode/tree/master/0056-merge-intervals) |
 | [0463-island-perimeter](https://github.com/AarthyV04/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/AarthyV04/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/AarthyV04/Leetcode/tree/master/0495-teemo-attacking) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AarthyV04/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/AarthyV04/Leetcode/tree/master/0056-merge-intervals) |
 | [0506-relative-ranks](https://github.com/AarthyV04/Leetcode/tree/master/0506-relative-ranks) |
 ## Depth-First Search
 |  |
