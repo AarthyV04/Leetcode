@@ -6,6 +6,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/AarthyV04/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/AarthyV04/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/AarthyV04/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AarthyV04/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AarthyV04/Leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/AarthyV04/Leetcode/tree/master/0056-merge-intervals) |
@@ -73,6 +74,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AarthyV04/Leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/AarthyV04/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0463-island-perimeter](https://github.com/AarthyV04/Leetcode/tree/master/0463-island-perimeter) |
 ## Simulation
@@ -87,6 +89,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AarthyV04/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AarthyV04/Leetcode/tree/master/0050-powx-n) |
 | [0507-perfect-number](https://github.com/AarthyV04/Leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/AarthyV04/Leetcode/tree/master/1013-fibonacci-number) |
