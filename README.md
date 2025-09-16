@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/AarthyV04/Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/AarthyV04/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/AarthyV04/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AarthyV04/Leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/AarthyV04/Leetcode/tree/master/0056-merge-intervals) |
@@ -29,6 +30,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AarthyV04/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1013-fibonacci-number](https://github.com/AarthyV04/Leetcode/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AarthyV04/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Graph
@@ -50,6 +52,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AarthyV04/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/AarthyV04/Leetcode/tree/master/0071-simplify-path) |
 ## Sorting
 |  |
@@ -103,4 +106,12 @@
 | ------- |
 | [0051-n-queens](https://github.com/AarthyV04/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/AarthyV04/Leetcode/tree/master/0052-n-queens-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AarthyV04/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AarthyV04/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
