@@ -7,6 +7,7 @@
 | [0049-group-anagrams](https://github.com/AarthyV04/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AarthyV04/Leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/AarthyV04/Leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/AarthyV04/Leetcode/tree/master/0057-insert-interval) |
 | [0463-island-perimeter](https://github.com/AarthyV04/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/AarthyV04/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/AarthyV04/Leetcode/tree/master/0495-teemo-attacking) |
