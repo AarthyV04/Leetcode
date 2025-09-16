@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AarthyV04/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/AarthyV04/Leetcode/tree/master/0044-wildcard-matching) |
 | [1013-fibonacci-number](https://github.com/AarthyV04/Leetcode/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AarthyV04/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Graph
@@ -44,6 +45,7 @@
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/AarthyV04/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/AarthyV04/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/AarthyV04/Leetcode/tree/master/0071-simplify-path) |
 | [0434-number-of-segments-in-a-string](https://github.com/AarthyV04/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
@@ -91,6 +93,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/AarthyV04/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/AarthyV04/Leetcode/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/AarthyV04/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -114,4 +117,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AarthyV04/Leetcode/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/AarthyV04/Leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
