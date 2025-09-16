@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/AarthyV04/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AarthyV04/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AarthyV04/Leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/AarthyV04/Leetcode/tree/master/0056-merge-intervals) |
@@ -20,6 +21,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/AarthyV04/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AarthyV04/Leetcode/tree/master/0049-group-anagrams) |
 | [0500-keyboard-row](https://github.com/AarthyV04/Leetcode/tree/master/0500-keyboard-row) |
 | [1319-unique-number-of-occurrences](https://github.com/AarthyV04/Leetcode/tree/master/1319-unique-number-of-occurrences) |
