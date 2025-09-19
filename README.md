@@ -20,6 +20,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/AarthyV04/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/AarthyV04/Leetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/AarthyV04/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3797-design-spreadsheet](https://github.com/AarthyV04/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0500-keyboard-row](https://github.com/AarthyV04/Leetcode/tree/master/0500-keyboard-row) |
 | [1319-unique-number-of-occurrences](https://github.com/AarthyV04/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/AarthyV04/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3797-design-spreadsheet](https://github.com/AarthyV04/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/AarthyV04/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/AarthyV04/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/AarthyV04/Leetcode/tree/master/0520-detect-capital) |
+| [3797-design-spreadsheet](https://github.com/AarthyV04/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Stack
 |  |
 | ------- |
@@ -77,6 +80,7 @@
 | [0048-rotate-image](https://github.com/AarthyV04/Leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/AarthyV04/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0463-island-perimeter](https://github.com/AarthyV04/Leetcode/tree/master/0463-island-perimeter) |
+| [3797-design-spreadsheet](https://github.com/AarthyV04/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
 | ------- |
@@ -124,4 +128,8 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/AarthyV04/Leetcode/tree/master/0044-wildcard-matching) |
+## Design
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/AarthyV04/Leetcode/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
