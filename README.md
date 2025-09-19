@@ -30,6 +30,7 @@
 | [0500-keyboard-row](https://github.com/AarthyV04/Leetcode/tree/master/0500-keyboard-row) |
 | [1319-unique-number-of-occurrences](https://github.com/AarthyV04/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/AarthyV04/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3678-design-task-manager](https://github.com/AarthyV04/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/AarthyV04/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/AarthyV04/Leetcode/tree/master/0506-relative-ranks) |
+| [3678-design-task-manager](https://github.com/AarthyV04/Leetcode/tree/master/3678-design-task-manager) |
 ## Math
 |  |
 | ------- |
@@ -136,5 +138,10 @@
 ## Design
 |  |
 | ------- |
+| [3678-design-task-manager](https://github.com/AarthyV04/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/AarthyV04/Leetcode/tree/master/3797-design-spreadsheet) |
+## Ordered Set
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/AarthyV04/Leetcode/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
