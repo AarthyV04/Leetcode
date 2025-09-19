@@ -19,6 +19,7 @@
 | [0500-keyboard-row](https://github.com/AarthyV04/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/AarthyV04/Leetcode/tree/master/0506-relative-ranks) |
 | [1319-unique-number-of-occurrences](https://github.com/AarthyV04/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [2429-design-a-food-rating-system](https://github.com/AarthyV04/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/AarthyV04/Leetcode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/AarthyV04/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3797-design-spreadsheet](https://github.com/AarthyV04/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -29,6 +30,7 @@
 | [0049-group-anagrams](https://github.com/AarthyV04/Leetcode/tree/master/0049-group-anagrams) |
 | [0500-keyboard-row](https://github.com/AarthyV04/Leetcode/tree/master/0500-keyboard-row) |
 | [1319-unique-number-of-occurrences](https://github.com/AarthyV04/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [2429-design-a-food-rating-system](https://github.com/AarthyV04/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/AarthyV04/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3678-design-task-manager](https://github.com/AarthyV04/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/AarthyV04/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -57,6 +59,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/AarthyV04/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/AarthyV04/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/AarthyV04/Leetcode/tree/master/0520-detect-capital) |
+| [2429-design-a-food-rating-system](https://github.com/AarthyV04/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/AarthyV04/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Stack
 |  |
@@ -95,6 +98,7 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/AarthyV04/Leetcode/tree/master/0506-relative-ranks) |
+| [2429-design-a-food-rating-system](https://github.com/AarthyV04/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/AarthyV04/Leetcode/tree/master/3678-design-task-manager) |
 ## Math
 |  |
@@ -141,10 +145,12 @@
 ## Design
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/AarthyV04/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/AarthyV04/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/AarthyV04/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/AarthyV04/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/AarthyV04/Leetcode/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
