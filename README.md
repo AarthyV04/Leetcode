@@ -37,6 +37,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AarthyV04/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/AarthyV04/Leetcode/tree/master/0044-wildcard-matching) |
+| [0070-climbing-stairs](https://github.com/AarthyV04/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AarthyV04/Leetcode/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AarthyV04/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Graph
@@ -101,6 +102,7 @@
 | [0048-rotate-image](https://github.com/AarthyV04/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AarthyV04/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/AarthyV04/Leetcode/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/AarthyV04/Leetcode/tree/master/0070-climbing-stairs) |
 | [0507-perfect-number](https://github.com/AarthyV04/Leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/AarthyV04/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -113,6 +115,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AarthyV04/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AarthyV04/Leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
