@@ -98,6 +98,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/AarthyV04/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AarthyV04/Leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/AarthyV04/Leetcode/tree/master/0060-permutation-sequence) |
 | [0507-perfect-number](https://github.com/AarthyV04/Leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/AarthyV04/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -105,6 +106,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/AarthyV04/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/AarthyV04/Leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/AarthyV04/Leetcode/tree/master/0060-permutation-sequence) |
 | [1013-fibonacci-number](https://github.com/AarthyV04/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
